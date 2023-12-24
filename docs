@@ -1,0 +1,7 @@
+docs/
+├── getting_started.md
+├── usage.md
+├── architecture.md
+├── contributing.md
+├── testing.md
+└── future_plans.md

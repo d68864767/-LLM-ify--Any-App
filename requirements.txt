@@ -1,0 +1,16 @@
+# Natural Language Processing Libraries
+transformers==4.11.3
+torch==1.9.1
+
+# Web Framework for API
+flask==2.0.2
+
+# Libraries for handling and processing data
+pandas==1.3.4
+numpy==1.21.2
+
+# Libraries for testing
+pytest==6.2.5
+
+# Other necessary libraries
+requests==2.26.0
